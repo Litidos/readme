@@ -1,5 +1,5 @@
-# Litidos
-_Infografía digital_
+# Litidos - _Infografía digital_
+
 * Antonia Adell - 
 * Ignacio Agurto - 
 * Fernando Gajardo - 
