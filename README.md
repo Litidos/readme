@@ -2,21 +2,28 @@
 ## Resumen :page_with_curl:
 
 **Datos relevantes:**
+
 De los 10 millones de toneladas métricas de reservas conocidas de litio que existen en el planeta, cerca de nueve millones están ubicados en Bolivia, Argentina y Chile. De esas reservas, cerca del 45% están ubicadas en Chile, en el Salar de Atacama, en forma de salmueras, siendo el Salar de Uyuni, en Bolivia la principal reserva mundial conocida.
 > La demanda de litio ha aumentado entre un 7% y 8% anual durante los últimos 10 años, lo que ha llevado a que el precio del carbonato de litio haya aumentado desde los US$ 1.760 por tonelada hasta los US$ 6.000, equivalentes a poco más de 3 millones de pesos.
 > Chile y Argentina entregan hoy poco más del 55% del litio que demandan los países industrializados, abasteciendo los requerimientos de Estados Unidos casi completamente.
 > En Chile, sólo dos compañías producen este mineral: SQM, líder en este mercado (55%), y la Sociedad Chilena del Litio, empresa filial de la compañía alemana Chemetall. Entre ambas produjeron unas 12 mil toneladas el año 2008.
 
 **Problemática explotación:**
+
 El Observatorio Plurinacional de Salares Andinos, colectivo nacido hace unos años en San Pedro de Atacama y que hoy reúne a representantes de comunidades, organizaciones e investigadores de Chile, Argentina y Bolivia, muestran preocupación por las consecuencias de la intensificación y expansión de la minería del litio en el triángulo de los salares andinos (bautizado desde la industria como el triángulo del litio). Y es que para satisfacer el mercado creciente de autos eléctricos el ya sobre explotado Salar de Atacama no bastará, y se hace necesario explotar más acuíferos y salares, al parecer sin importar que éstos se encuentren en territorios indígenas (atacameños o lickanantay, colla, quechua y aymara) o que impacten zonas protegidas como Laguna Tebenquiche o los salares de Maricunga y Coipasa.
 
 **Problemática constitución**
+
 La movilización social a través de cabildos y desde diferentes frentes ha logrado volver a posicionar un tema fundamental, como lo es una nueva constitución. Este es uno de los pilares fundamentales de años de abusos, una constitución que fue diseñada en dictadura y que ha permitido profundizar el sistema neoliberal, extractivista, colonial y patriarcal, beneficiando a los dueños del poder político y económico, otorgando mayores facultades a los privados por sobre el Estado y que también ha permitido un extractivismo sin escrúpulos a través de empresas trasnacionales, amparando la privatización y explotación de nuestros bienes naturales. Esta constitución, además, dejó de garantizar derechos sociales y ha facilitado la ejecución de políticas de exclusión hacia mujeres, tercera edad, comunidades indígenas, diversidades sexuales y la clase trabajadora en general. (link 1)
 Actualmente, el litio está definido como un mineral no concesionable en el Código de Minería, pero no en la Constitución Política, como sí ocurre con los hidrocarburos. De hecho, la Constitución Política establece en el artículo 19 que el “Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas”.
  
 **Movimientos Sociales:**
+
 Como Movimiento Litio para Chile sabemos que para que el litio pueda ser recuperado para el Estado y de beneficio del pueblo tenemos que avanzar hacia una nueva Constitución mediante una asamblea constituyente. Es la única manera de garantizar un nuevo modelo de desarrollo sustentable para el pueblo de Chile y no para un puñado de empresas transnacionales que solo les interesa la materia prima. (link 2)
- 
+
+
+> Esta información fue recopilada de distintas páginas disponibles en los links útiles
+
 Lista de tareas :white_check_mark:
 ------
 - [ ] Readme Inicial
