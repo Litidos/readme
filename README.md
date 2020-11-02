@@ -1,12 +1,14 @@
 # Litido
 ## Resumen :page_with_curl:
 ### Lista de tareas :white_check_mark:
+------
 - [x] this is a complete item
 - [ ] this is an incomplete item
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
  
 ### Links útiles :computer:
+------
 * [El Cobre y el Litio para Chile: Nueva Constitución para un Estado soberano y libre de extractivismo](https://www.eldesconcierto.cl/2019/11/24/el-cobre-y-el-litio-para-chile-nueva-constitucion-para-un-estado-soberano-y-libre-de-extractivismo/)
 * [Movimiento Litio para Chile pide una nueva Constitución](http://soylimari.cl/index.php/2019/10/29/movimiento-litio-para-chile-pide-una-nueva-constitucion/)
 * [La Nacionalización y la Nueva Constitución](https://www.pressenza.com/es/2020/10/la-nacionalizacion-y-la-nueva-constitucion/)
@@ -18,3 +20,4 @@
 * [¿Qué pasa con el litio? El saqueo de nuestros recursos y derechos](http://www.laizquierdadiario.cl/El-Litio-y-la-privatizacion)
  
 ### Otro título
+------
