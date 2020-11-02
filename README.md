@@ -27,7 +27,7 @@ De los 10 millones de toneladas métricas de reservas conocidas de litio que exi
 > chiledesarrollosustentable.cl
 
 
-**_Esta información fue recopilada de distintas páginas disponibles en los links útiles_**
+**_Esta información fue recopilada de distintas páginas disponibles en los links investigación_**
 
 Lista de tareas :white_check_mark:
 ------
@@ -39,7 +39,7 @@ Lista de tareas :white_check_mark:
 - [ ] Programación: programar la infografía
  
  
-Links útiles :computer:
+Links investigación :computer:
 ------
 * [El Cobre y el Litio para Chile: Nueva Constitución para un Estado soberano y libre de extractivismo](https://www.eldesconcierto.cl/2019/11/24/el-cobre-y-el-litio-para-chile-nueva-constitucion-para-un-estado-soberano-y-libre-de-extractivismo/)
 * [Movimiento Litio para Chile pide una nueva Constitución](http://soylimari.cl/index.php/2019/10/29/movimiento-litio-para-chile-pide-una-nueva-constitucion/)
@@ -53,8 +53,10 @@ Links útiles :computer:
 
 
 
-Links sobre Markdown :pushpin:
+Links ramo :pushpin:
 ------
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Markdown Emojis](https://gist.github.com/rxaviers/7360908)
+- [Six visual variables in representing graphical](https://www.researchgate.net/profile/Xiaoyue_Ma/publication/271707034/figure/fig2/AS:295195187925007@1447391425427/Six-visual-variables-proposed-by-Bertin-and-their-capacity-in-representing-graphical.png)
+- [Github Curso](https://github.com/profesorfaco/dno075-2020)
