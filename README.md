@@ -19,7 +19,7 @@ Actualmente, el litio está definido como un mineral no concesionable en el Cód
  
 **Movimientos Sociales:**
 
-Como Movimiento Litio para Chile sabemos que para que el litio pueda ser recuperado para el Estado y de beneficio del pueblo tenemos que avanzar hacia una nueva Constitución mediante una asamblea constituyente. Es la única manera de garantizar un nuevo modelo de desarrollo sustentable para el pueblo de Chile y no para un puñado de empresas transnacionales que solo les interesa la materia prima. (link 2)
+Como Movimiento Litio para Chile sabemos que para que el litio pueda ser recuperado para el Estado y de beneficio del pueblo tenemos que avanzar hacia una nueva Constitución mediante una asamblea constituyente. Es la única manera de garantizar un nuevo modelo de desarrollo sustentable para el pueblo de Chile y no para un puñado de empresas transnacionales que solo les interesa la materia prima.
 
 
 **_Esta información fue recopilada de distintas páginas disponibles en los links útiles_**
