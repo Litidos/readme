@@ -2,15 +2,6 @@
 ## Resumen :page_with_curl:
 
 
-**Datos relevantes:**
-
-De los 10 millones de toneladas métricas de reservas conocidas de litio que existen en el planeta, cerca de nueve millones están ubicados en Bolivia, Argentina y Chile. De esas reservas, cerca del 45% están ubicadas en Chile, en el Salar de Atacama, en forma de salmueras, siendo el Salar de Uyuni, en Bolivia la principal reserva mundial conocida.
-> La demanda de litio ha aumentado entre un 7% y 8% anual durante los últimos 10 años, lo que ha llevado a que el precio del carbonato de litio haya aumentado desde los US$ 1.760 por tonelada hasta los US$ 6.000, equivalentes a poco más de 3 millones de pesos.
-> Chile y Argentina entregan hoy poco más del 55% del litio que demandan los países industrializados, abasteciendo los requerimientos de Estados Unidos casi completamente.
-> En Chile, sólo dos compañías producen este mineral: SQM, líder en este mercado (55%), y la Sociedad Chilena del Litio, empresa filial de la compañía alemana Chemetall. Entre ambas produjeron unas 12 mil toneladas el año 2008.
-> chiledesarrollosustentable.cl
-
-
 **Problemática explotación:**
 
 El Observatorio Plurinacional de Salares Andinos, colectivo nacido hace unos años en San Pedro de Atacama y que hoy reúne a representantes de comunidades, organizaciones e investigadores de Chile, Argentina y Bolivia, muestran preocupación por las consecuencias de la intensificación y expansión de la minería del litio en el triángulo de los salares andinos (bautizado desde la industria como el triángulo del litio). Y es que para satisfacer el mercado creciente de autos eléctricos el ya sobre explotado Salar de Atacama no bastará, y se hace necesario explotar más acuíferos y salares, al parecer sin importar que éstos se encuentren en territorios indígenas (atacameños o lickanantay, colla, quechua y aymara) o que impacten zonas protegidas como Laguna Tebenquiche o los salares de Maricunga y Coipasa.
@@ -26,6 +17,14 @@ Actualmente, el litio está definido como un mineral no concesionable en el Cód
 **Movimientos Sociales:**
 
 Como Movimiento Litio para Chile sabemos que para que el litio pueda ser recuperado para el Estado y de beneficio del pueblo tenemos que avanzar hacia una nueva Constitución mediante una asamblea constituyente. Es la única manera de garantizar un nuevo modelo de desarrollo sustentable para el pueblo de Chile y no para un puñado de empresas transnacionales que solo les interesa la materia prima.
+
+**Datos relevantes:**
+
+De los 10 millones de toneladas métricas de reservas conocidas de litio que existen en el planeta, cerca de nueve millones están ubicados en Bolivia, Argentina y Chile. De esas reservas, cerca del 45% están ubicadas en Chile, en el Salar de Atacama, en forma de salmueras, siendo el Salar de Uyuni, en Bolivia la principal reserva mundial conocida.
+> La demanda de litio ha aumentado entre un 7% y 8% anual durante los últimos 10 años, lo que ha llevado a que el precio del carbonato de litio haya aumentado desde los US$ 1.760 por tonelada hasta los US$ 6.000, equivalentes a poco más de 3 millones de pesos.
+> Chile y Argentina entregan hoy poco más del 55% del litio que demandan los países industrializados, abasteciendo los requerimientos de Estados Unidos casi completamente.
+> En Chile, sólo dos compañías producen este mineral: SQM, líder en este mercado (55%), y la Sociedad Chilena del Litio, empresa filial de la compañía alemana Chemetall. Entre ambas produjeron unas 12 mil toneladas el año 2008.
+> chiledesarrollosustentable.cl
 
 
 **_Esta información fue recopilada de distintas páginas disponibles en los links útiles_**
