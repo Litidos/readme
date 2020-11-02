@@ -60,7 +60,6 @@ Links investigación :computer:
 * [¿Qué pasa con el litio? El saqueo de nuestros recursos y derechos](http://www.laizquierdadiario.cl/El-Litio-y-la-privatizacion)
 
 
-
 Links ramo :pushpin:
 ------
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -68,3 +67,8 @@ Links ramo :pushpin:
 - [Markdown Emojis](https://gist.github.com/rxaviers/7360908)
 - [Six visual variables in representing graphical](https://www.researchgate.net/profile/Xiaoyue_Ma/publication/271707034/figure/fig2/AS:295195187925007@1447391425427/Six-visual-variables-proposed-by-Bertin-and-their-capacity-in-representing-graphical.png)
 - [Github Curso](https://github.com/profesorfaco/dno075-2020)
+
+Referentes :mailbox:
+------
+[Un salón, un bar y una clase: así contagia el coronavirus en el aire](https://elpais.com/ciencia/2020-10-24/un-salon-un-bar-y-una-clase-asi-contagia-el-coronavirus-en-el-aire.html)
+
