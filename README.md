@@ -1,4 +1,5 @@
 # Litido
+_Infografía Digital_ - Antonia Adell, Ignacio Agurto, Fernando Gajardo
 ## Resumen :page_with_curl:
 Lista de tareas :white_check_mark:
 ------
