@@ -7,6 +7,7 @@ De los 10 millones de toneladas métricas de reservas conocidas de litio que exi
 > La demanda de litio ha aumentado entre un 7% y 8% anual durante los últimos 10 años, lo que ha llevado a que el precio del carbonato de litio haya aumentado desde los US$ 1.760 por tonelada hasta los US$ 6.000, equivalentes a poco más de 3 millones de pesos.
 > Chile y Argentina entregan hoy poco más del 55% del litio que demandan los países industrializados, abasteciendo los requerimientos de Estados Unidos casi completamente.
 > En Chile, sólo dos compañías producen este mineral: SQM, líder en este mercado (55%), y la Sociedad Chilena del Litio, empresa filial de la compañía alemana Chemetall. Entre ambas produjeron unas 12 mil toneladas el año 2008.
+> chiledesarrollosustentable.cl
 
 **Problemática explotación:**
 
@@ -22,16 +23,19 @@ Actualmente, el litio está definido como un mineral no concesionable en el Cód
 Como Movimiento Litio para Chile sabemos que para que el litio pueda ser recuperado para el Estado y de beneficio del pueblo tenemos que avanzar hacia una nueva Constitución mediante una asamblea constituyente. Es la única manera de garantizar un nuevo modelo de desarrollo sustentable para el pueblo de Chile y no para un puñado de empresas transnacionales que solo les interesa la materia prima.
 
 
+
 **_Esta información fue recopilada de distintas páginas disponibles en los links útiles_**
 
 Lista de tareas :white_check_mark:
 ------
-- [ ] Readme Inicial
+- [x] Readme Inicial
 - [ ] Investigación Nivel 1: adentrarse en el tema
 - [ ] Investigación Nivel 2: definir áreas a tratar en la infografía
 - [ ] Investigación Nivel 3: tener la información específica que va a estar en la infografía
 - [ ] Visualización: cómo se va a tratar la información visualmente
 - [ ] Programación: programar la infografía
+ 
+ 
  
 Links útiles :computer:
 ------
