@@ -66,7 +66,7 @@ Links ramo :pushpin:
 - [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Markdown Emojis](https://gist.github.com/rxaviers/7360908)
 - [Six visual variables in representing graphical](https://www.researchgate.net/profile/Xiaoyue_Ma/publication/271707034/figure/fig2/AS:295195187925007@1447391425427/Six-visual-variables-proposed-by-Bertin-and-their-capacity-in-representing-graphical.png)
-- [Github Curso](https://github.com/profesorfaco/dno075-2020)
+- [Github Curso :octocat:](https://github.com/profesorfaco/dno075-2020)
 
 Referentes :mailbox:
 ------
