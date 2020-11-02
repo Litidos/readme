@@ -9,7 +9,7 @@
 ### Links útiles :computer:
 * [El Cobre y el Litio para Chile: Nueva Constitución para un Estado soberano y libre de extractivismo](https://www.eldesconcierto.cl/2019/11/24/el-cobre-y-el-litio-para-chile-nueva-constitucion-para-un-estado-soberano-y-libre-de-extractivismo/)
 * [Movimiento Litio para Chile pide una nueva Constitución](http://soylimari.cl/index.php/2019/10/29/movimiento-litio-para-chile-pide-una-nueva-constitucion/)
-* [La Nacionalización y la Nueva Constitución])https://www.pressenza.com/es/2020/10/la-nacionalizacion-y-la-nueva-constitucion/)
+* [La Nacionalización y la Nueva Constitución](https://www.pressenza.com/es/2020/10/la-nacionalizacion-y-la-nueva-constitucion/)
 * [Ingresan reforma constitucional para declarar el Litio como sustancia no susceptible de concesión](http://www.chiledesarrollosustentable.cl/noticias/noticia-pais/ingresan-reforma-constitucional-para-declarar-el-litio-como-sustancia-no-susceptible-de-concesion/)
 * [Cómo la apuesta de Chile por el litio está desatando una disputa por el agua en Atacama](https://www.bbc.com/mundo/noticias-america-latina-49394020)
 * [¿La oportunidad perdida del litio?](https://www.latercera.com/pulso/noticia/la-oportunidad-perdida-del-litio/QXM5IWPTEVF6REIQKAXGT7USPY/)
