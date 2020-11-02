@@ -1,8 +1,8 @@
 # Litidos - _Infografía digital_
 
-* Antonia Adell - 
-* Ignacio Agurto - 
-* Fernando Gajardo - 
+* Antonia Adell - Rol 1
+* Ignacio Agurto - Rol 2
+* Fernando Gajardo - Rol 3
 
 ## Resumen :page_with_curl:
 
