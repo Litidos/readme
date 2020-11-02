@@ -1,4 +1,9 @@
 # Litidos
+_Infografía digital_
+Antonia Adell - @AntoAdell 
+Ignacio Agurto - @iagurto
+Fernando Gajardo - @fjgajardo
+
 ## Resumen :page_with_curl:
 
 
