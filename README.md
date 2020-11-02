@@ -70,5 +70,5 @@ Links ramo :pushpin:
 
 Referentes :mailbox:
 ------
-[Un salón, un bar y una clase: así contagia el coronavirus en el aire](https://elpais.com/ciencia/2020-10-24/un-salon-un-bar-y-una-clase-asi-contagia-el-coronavirus-en-el-aire.html)
+* [Un salón, un bar y una clase: así contagia el coronavirus en el aire](https://elpais.com/ciencia/2020-10-24/un-salon-un-bar-y-una-clase-asi-contagia-el-coronavirus-en-el-aire.html)
 
