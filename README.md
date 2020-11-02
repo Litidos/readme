@@ -1,8 +1,8 @@
 # Litidos - _Infografía digital_
 
 * Antonia Adell - Rol 1
-* Ignacio Agurto - Rol 2
-* Fernando Gajardo - Rol 3
+* Ignacio Agurto - Investigación y redacción
+* Fernando Gajardo - Mago nivel 3
 
 ## Resumen :page_with_curl:
 
