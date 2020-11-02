@@ -1,13 +1,15 @@
 # Litido
 ## Resumen :page_with_curl:
-### Lista de tareas :white_check_mark:
+Lista de tareas :white_check_mark:
 ------
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
+- [ ] Readme Inicial
+- [ ] Investigación Nivel 1: adentrarse en el tema
+- [ ] Investigación Nivel 2: definir áreas a tratar en la infografía
+- [ ] Investigación Nivel 3: tener la información específica que va a estar en la infografía
+- [ ] Visualización: cómo se va a tratar la información visualmente
+- [ ] Programación: programar la infografía
  
-### Links útiles :computer:
+Links útiles :computer:
 ------
 * [El Cobre y el Litio para Chile: Nueva Constitución para un Estado soberano y libre de extractivismo](https://www.eldesconcierto.cl/2019/11/24/el-cobre-y-el-litio-para-chile-nueva-constitucion-para-un-estado-soberano-y-libre-de-extractivismo/)
 * [Movimiento Litio para Chile pide una nueva Constitución](http://soylimari.cl/index.php/2019/10/29/movimiento-litio-para-chile-pide-una-nueva-constitucion/)
@@ -19,5 +21,5 @@
 * [OPINIÓN | Litio y conflictos socioambientales en tiempos de crisis: Una oportunidad para (re)pensar la transición](https://www.eldesconcierto.cl/2020/06/08/litio-y-conflictos-socioambientales-en-tiempos-de-crisis-una-oportunidad-para-repensar-la-transicion/)
 * [¿Qué pasa con el litio? El saqueo de nuestros recursos y derechos](http://www.laizquierdadiario.cl/El-Litio-y-la-privatizacion)
  
-### Otro título
+Otro título
 ------
