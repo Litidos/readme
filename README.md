@@ -2,6 +2,9 @@
 ## Resumen :page_with_curl:
 
 
+![extración de litio](https://ichef.bbci.co.uk/news/800/cpsprodpb/2C93/production/_108311411_reuters3.jpg)
+
+
 **Problemática explotación:**
 
 El Observatorio Plurinacional de Salares Andinos, colectivo nacido hace unos años en San Pedro de Atacama y que hoy reúne a representantes de comunidades, organizaciones e investigadores de Chile, Argentina y Bolivia, muestran preocupación por las consecuencias de la intensificación y expansión de la minería del litio en el triángulo de los salares andinos (bautizado desde la industria como el triángulo del litio). Y es que para satisfacer el mercado creciente de autos eléctricos el ya sobre explotado Salar de Atacama no bastará, y se hace necesario explotar más acuíferos y salares, al parecer sin importar que éstos se encuentren en territorios indígenas (atacameños o lickanantay, colla, quechua y aymara) o que impacten zonas protegidas como Laguna Tebenquiche o los salares de Maricunga y Coipasa.
