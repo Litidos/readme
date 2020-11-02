@@ -19,14 +19,13 @@ El Observatorio Plurinacional de Salares Andinos, colectivo nacido hace unos añ
 **Problemática constitución**
 
 La movilización social a través de cabildos y desde diferentes frentes ha logrado volver a posicionar un tema fundamental, como lo es una nueva constitución. Este es uno de los pilares fundamentales de años de abusos, una constitución que fue diseñada en dictadura y que ha permitido profundizar el sistema neoliberal, extractivista, colonial y patriarcal, beneficiando a los dueños del poder político y económico, otorgando mayores facultades a los privados por sobre el Estado y que también ha permitido un extractivismo sin escrúpulos a través de empresas trasnacionales, amparando la privatización y explotación de nuestros bienes naturales. Esta constitución, además, dejó de garantizar derechos sociales y ha facilitado la ejecución de políticas de exclusión hacia mujeres, tercera edad, comunidades indígenas, diversidades sexuales y la clase trabajadora en general.
+
 Actualmente, el litio está definido como un mineral no concesionable en el Código de Minería, pero no en la Constitución Política, como sí ocurre con los hidrocarburos. De hecho, la Constitución Política establece en el artículo 19 que el “Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas”.
  
  
 **Movimientos Sociales:**
 
 Como Movimiento Litio para Chile sabemos que para que el litio pueda ser recuperado para el Estado y de beneficio del pueblo tenemos que avanzar hacia una nueva Constitución mediante una asamblea constituyente. Es la única manera de garantizar un nuevo modelo de desarrollo sustentable para el pueblo de Chile y no para un puñado de empresas transnacionales que solo les interesa la materia prima.
-
-
 
 
 **_Esta información fue recopilada de distintas páginas disponibles en los links útiles_**
@@ -39,8 +38,6 @@ Lista de tareas :white_check_mark:
 - [ ] Investigación Nivel 3: tener la información específica que va a estar en la infografía
 - [ ] Visualización: cómo se va a tratar la información visualmente
 - [ ] Programación: programar la infografía
- 
- 
  
  
 Links útiles :computer:
