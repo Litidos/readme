@@ -9,6 +9,11 @@
 
 ![extración de litio](https://ichef.bbci.co.uk/news/800/cpsprodpb/2C93/production/_108311411_reuters3.jpg)
 
+__¿Qué es?__ Es un metal que se encuentra principalmente en salmueras naturales, pegmatitas, pozos petrolíferos, campos geotermales y agua de mar.
+
+__¿Para qué sirve?__ Tiene varios usos. Con el litio se hace el aluminio y ayuda a mejorar las propiedades del vidrio y cerámica dentro del proceso de fabricación de estas. Además, se usa como grasa lubricante para todo tipo de vehiculos, incluso industriales y militares, y también es utilizado en sistemas de aire acondicionado y control de humedad, ya que por sus propiedades puede absorber bien la humedad del aire. A pesar de todo lo anterior, su uso más popular son las baterías, ya que es capaz de entregar una mayor cantidad de energía que las baterías comunes, estando presente en muchos aparatos tecnológicos de uso diario.
+
+__¿Cuál es su importancia?__ Chile tiene el 52% aprox. de reservas de litio del mundo en forma de salmueras. Además, el carbonato de litio es el producto con mayor volumen de transacción comercial, siendo el compuesto más importante. Su mercado está en constante crecimiento, y se estima que crezca entre 10% y 12% anualmente dentro de los próximos cinco años. Aunque este mercado es más pequeño que el de los otros metales, la demanda de baterías lo mantiene dinámico debido a su fuerte uso y fabricación en esa área.
 
 **Problemática explotación:**
 
