@@ -1,8 +1,8 @@
 # Litidos - _Infografía digital_
 
-* Antonia Adell - _Rol 1_
+* Antonia Adell - _Gráfica_
 * Ignacio Agurto - _Investigación y redacción_
-* Fernando Gajardo - _Mago nivel 3_
+* Fernando Gajardo - _Programación_
 
 ## Resumen :page_with_curl:
 
